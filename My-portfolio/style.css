@@ -17,7 +17,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 40px 200px;
+  padding: 50px 200px;
 }
 
 
@@ -31,17 +31,17 @@ h1 {
 
 .nav .link ul a {
   text-decoration: none;
-  color: #ac3636;
+  color: #17488d;
   font-weight: 600;
   transition: all 2000ms ease-in-out;
 }
 
 ul a .active {
-  color: #942e3f;
+  color: #17488d;
 }
 
 .nav .link ul a:hover {
-  color: #921e31;
+  color:#17488d;
 }
 
 .main {
@@ -56,10 +56,10 @@ h1.hi-there-name {
   margin-bottom: -5px;
 }
 .color-of-hi-there {
-  color: #002b66;
+  color: #17488d;
 }
 .color-of-myname {
-  color: #e6384e;
+  color: #17488d;
 }
 h3 {
   font-family: "Roboto", sans-serif;
@@ -129,7 +129,7 @@ h2.latest-project {
   color: #002b66;
 }
 span.h2-text-color {
-  color: #e6384e;
+  color: #17488d;
 }
 .latest-project-div-style {
   height: 80%;
